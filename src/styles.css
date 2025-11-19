@@ -1,0 +1,23 @@
+/* Global Styling */
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffe6ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 5px 20px rgba(0,0,0,0.1);
+}
+
+.title {
+  text-align: center;
+  color: #d633ff;
+  font-size: 2rem;
+}
